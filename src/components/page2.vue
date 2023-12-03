@@ -7,6 +7,7 @@
             <br>
             I ususally work with Visual studio code, all part of my website have been created with this tool
             <br>
+            Les canards sont marrants 
         </h2>
 
         <div class="flex-parcour">
