@@ -31,12 +31,10 @@
 
         </div>
 
-
         <p class="flex-icon">
             
             <a class="linkedin"  href="https://www.linkedin.com/in/walie-houmad-089727238/" target="_blank">
-                <font-awesome-icon icon="fa-brands fa-linkedin" font-size="80px" title="Linkedin"/>  
-                          
+                <font-awesome-icon icon="fa-brands fa-linkedin" font-size="80px" title="Linkedin"/>           
             </a>
 
             <a class="Git-Hub" href="https://github.com/Walie-Matthieu" target="_blank">
@@ -46,7 +44,7 @@
 
 
             <a class="OnlyFans" href="https://www.youtube.com/shorts/vWUmk5-FO0I" target="_blank"> 
-              <img src="res/onlyfan logo.png" widht="20" height="50" title="OnlyFans">
+              <img src="https://raw.githubusercontent.com/Walie-Matthieu/portfolio/dev/res/onlyfan%20logo.png" widht="20" height="50" title="OnlyFans">
             
             </a>
 
