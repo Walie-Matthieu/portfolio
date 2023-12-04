@@ -34,11 +34,9 @@
         <p class="flex-icon">
             
             <a class="linkedin"  href="https://www.linkedin.com/in/walie-houmad-089727238/" target="_blank">
-                <font-awesome-icon icon="fa-brands fa-linkedin" font-size="80px" title="Linkedin"/>           
             </a>
 
             <a class="Git-Hub" href="https://github.com/Walie-Matthieu" target="_blank">
-                    <font-awesome-icon :icon="['fab', 'github']" font-size="85px" title="Git-Hub"/>
              
             </a>
 
@@ -48,7 +46,6 @@
             
             </a>
 
-            <!-- <font-awesome-icon :icon="['fab', 'instagram']" /> -->
         </p>
 
 
